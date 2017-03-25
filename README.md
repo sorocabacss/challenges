@@ -9,7 +9,7 @@ Challenges we do at our meetups. Feel free to... copy / use / feedback / impr
 
 **Players / Teams**: 3~10 groups of 3 persons.
 
-**Weapons**: One keyboard per team.
+**Weapons**: One notebook per team.
 
 **Level**: Easy.
 
